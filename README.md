@@ -40,7 +40,7 @@ winget install --id WorldTimeCLI.WorldTimeCLI --version 1.0.0.2
 
 <h3>📸 Ekran ko‘rinishi</h3>
 
-<img src="https://github.com/user-attachments/assets/a507cfab-9dad-4faf-8acb-0441e3ffa55b" width="450"/>
+<img src="https://github.com/user-attachments/assets/a507cfab-9dad-4faf-8acb-0441e3ffa55b" width="520"/>
 
 ---
 
